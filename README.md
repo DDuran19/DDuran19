@@ -4,6 +4,7 @@
 
 ## Contact Me
 - **Phone**: 0966-978-0902
+- **Discord**: [DDuran19](discordapp.com/users/1086421084523475055)
 - **Email**: [DenverJames.Duran19@outlook.com](mailto:DenverJames.Duran19@outlook.com)
 - **Portfolio**: [Duran-solutions.vercel.app](https://duran-solutions.vercel.app)
 - **LinkedIn**: [Linkedin.com/in/dduran19](https://www.linkedin.com/in/dduran19/)
