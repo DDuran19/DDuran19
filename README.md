@@ -54,5 +54,6 @@ $$Dedication    ❖    Empowerment    ❖    Education    ❖    Programming $$
 
 <p style="text-align:justify;"> DEEP, guided by the principles of <span style="color:blue;">Modularized Learning</span>, <span style="color:green;">Project-Based Education</span>, and <span style="color:red;">Industry Relevance</span>, revolutionizes education. Our approach breaks down complex topics into manageable units, promoting lifelong learning for all. Through project-based learning, individuals gain practical skills and problem-solving abilities, ensuring they're ready to tackle real-world challenges. Industry relevance ensures that our education translates directly into valuable, career-ready skills, benefitting not only individuals but also society as a whole.</p>
 <p align="center">
-<img src="https://github.com/DDuran19/DDuran19/assets/128191960/529b4523-9b40-42af-90f2-ef2eaf363a17" alt="Coming Soon">
+<img src="https://github.com/DDuran19/DDuran19/assets/128191960/e38aa574-c0f2-4d62-93bb-5a505f8a592b" alt="Coming Soon">
+  
 </p>
