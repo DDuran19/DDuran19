@@ -8,7 +8,7 @@
   - [Table of Contents](#table-of-contents)
   - [Contact Me](#contact-me)
   - [Skills](#skills)
-  - [Stat](#stat)
+  - [Stats](#stats)
   - [Project D.E.E.P.](#project-deep)
 
 ## Contact Me
