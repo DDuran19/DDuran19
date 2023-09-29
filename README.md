@@ -71,7 +71,19 @@
 
 ## Project D.E.E.P.
 <p align="center">
-  <img src="https://github.com/Duran-Enterprise/CompanyAssets/blob/e205f3d8dbc3e6ce932ad018f07de3c360344c04/public/assets/logo/fullsize/m-dark-full.png" alt="Project DEEP">
+
+  <picture >
+    <source
+      srcset="https://github.com/Duran-Enterprise/CompanyAssets/blob/e205f3d8dbc3e6ce932ad018f07de3c360344c04/public/assets/logo/fullsize/m-dark-full.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github.com/Duran-Enterprise/CompanyAssets/blob/e205f3d8dbc3e6ce932ad018f07de3c360344c04/public/assets/logo/fullsize/m-light-full.png"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github.com/Duran-Enterprise/CompanyAssets/blob/e205f3d8dbc3e6ce932ad018f07de3c360344c04/public/assets/logo/fullsize/m-light-full.png" />
+  </picture>
+  
 </p>
 
 $$Dedication    ❖    Empowerment    ❖    Education    ❖    Programming $$
