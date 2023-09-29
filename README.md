@@ -8,7 +8,7 @@
   - [Table of Contents](#table-of-contents)
   - [Contact Me](#contact-me)
   - [Skills](#skills)
-  - [Stat](#stat)
+  - [Stats](#stats)
   - [Project D.E.E.P.](#project-deep)
 
 ## Contact Me
@@ -38,11 +38,36 @@
 
     [![Familiar tools used](https://skillicons.dev/icons?i=mongo,firebase,supabase,sqlite,express,fastapi)](https://skillicons.dev)
 
-## Stat
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DDuran19&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDuran19&layout=compact&theme=dark)
+## Stats
+<p align="center">
+  <picture >
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/?username=DDuran19&show_icons=true&theme=dark&custom_title=My%20Stats&ring_color=70e692&border_radius=15"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/?username=DDuran19&show_icons=true&theme=dark&custom_title=My%20Stats&ring_color=70e692&border_radius=15"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/?username=DDuran19&show_icons=true&theme=dark&custom_title=My%20Stats&ring_color=70e692&border_radius=15" />
+  </picture>
+  
+</p>
+<p align="center">
+  
+  <picture >
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DDuran19&show_icons=true&theme=dark&custom_title=My%20Top%205%20Languages&border_radius=15"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DDuran19&show_icons=true&custom_title=My%20Top%205%20Languages&border_radius=15"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDuran19&show_icons=true&custom_title=My%20Top%205%20Languages&border_radius=15" />
+  </picture>
+  
+</p>
 
 ## Project D.E.E.P.
 <p align="center">
