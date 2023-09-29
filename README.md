@@ -46,10 +46,10 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/?username=DDuran19&show_icons=true&theme=dark&custom_title=My%20Stats&ring_color=70e692&border_radius=15"
+      srcset="https://github-readme-stats.vercel.app/api/?username=DDuran19&show_icons=true&custom_title=My%20Stats&ring_color=70e692&border_radius=15"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/?username=DDuran19&show_icons=true&theme=dark&custom_title=My%20Stats&ring_color=70e692&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=DDuran19&show_icons=true&custom_title=My%20Stats&ring_color=70e692&border_radius=15" />
   </picture>
   
 </p>
