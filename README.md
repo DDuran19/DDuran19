@@ -1,7 +1,7 @@
 # Denver James Duran
 
 
->*Software Developer skilled in Python, JavaScript, CSS, HTML, and SQL. Proven track record on delivering impactful web solutions, including start-up web apps and full-stack development projects. Effective communicator and analytical thinker, with a background in teaching and mentoring. Strong leadership and teamwork capabilities.*
+>*Sveltekit fullstack software developer based on the Philippines, only accepting remote work. Able to provide custom solutions to your specific digital problems. Send me an email at denver02.james14@gmail.com.*
 
 [Download my CV](https://github.com/DDuran19/DDuran19/blob/8d368ece67f2802f10e9c0700d8359525fae645c/denver-james-duran-resume.pdf)
 
