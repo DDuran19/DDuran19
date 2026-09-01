@@ -6,7 +6,7 @@ I build **production-ready web applications, business systems, e-commerce platfo
 
 Based in **Metro Manila, Philippines 🇵🇭** and open to **remote opportunities and freelance projects**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-denvie.online-000?style=for-the-badge&logo=cloudflare)](https://denvie.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Website-000?style=for-the-badge&logo=cloudflare)](https://portfolio-15z.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DDuran19-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dduran19/)
 [![Email](https://img.shields.io/badge/Email-denver02.james14%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:denver02.james14@gmail.com)
 
@@ -228,8 +228,8 @@ I'm interested in projects involving:
 If your business has a process that's repetitive, fragmented, difficult to manage, or held together by spreadsheets and manual work, there's probably a better system we can build around it.
 
 📧 **Email:** [denver02.james14@gmail.com](mailto:denver02.james14@gmail.com)  
-🌐 **Portfolio:** [denvie.online](https://denvie.online)  
+🌐 **Portfolio:** [portfolio-15z.pages.dev](https://portfolio-15z.pages.dev/)  
 💼 **LinkedIn:** [linkedin.com/in/dduran19](https://www.linkedin.com/in/dduran19/)  
 🐙 **GitHub:** [github.com/DDuran19](https://github.com/DDuran19)
 
-### 📄 [Download My CV](https://github.com/DDuran19/DDuran19/blob/main/denver-james-duran-resume.pdf)
+### 📄 [View / Download My Resume](https://portfolio-15z.pages.dev/resume)
